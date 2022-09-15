@@ -31,7 +31,7 @@
  <h2>See my last project <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 https://anibal-alpizar.github.io/
  
- <h2>  Frameworks & Programming language </h2>
+ <h2> Social media </h2>
  
 <div> 
   <a href="https://www.instagram.com/anibalalpizar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
