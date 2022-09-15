@@ -1,5 +1,6 @@
 ### Hi, I'm Anibal Alpizar 👋
 
+- 📘 Software engineering
 - 🔭 Web & app developer freelance
 - 🌱 I’m currently learning React/TS, Node/Express & ASP.NET MVC
 - 📫 Contact email: anibal.alpizar14@gmail.com
@@ -24,8 +25,6 @@
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
-
 
  ##
  
