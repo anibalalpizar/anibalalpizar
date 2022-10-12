@@ -28,7 +28,7 @@
 
  ##
  
- <h2>See my last web projects <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+ <h2>See my last web project <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
 https://anibal-alpizar.github.io/
  
