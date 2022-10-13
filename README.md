@@ -1,7 +1,7 @@
 ### Hi, I'm Anibal Alpizar 👋
 
 - 📘 Software engineering
-- 🔭 Web & app developer freelance
+- 🔭 Web developer freelance
 - 🌱 I’m currently learning React/TS, Node/Express & ASP.NET MVC
 - 📫 Contact email: anibal.alpizar14@gmail.com
 
