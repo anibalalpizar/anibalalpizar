@@ -2,7 +2,7 @@
 
 - 📘 Software engineering
 - 🔭 React 
-- 🌱 I’m currently learning React/TS, Node/Express & ASP.NET MVC
+- 🌱 I’m currently learning React/JS, Tailwindcss
 - 📫 Contact email: anibal.alpizar14@gmail.com
 
 <h2> Github Stats </h2> 
