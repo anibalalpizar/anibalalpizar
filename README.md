@@ -40,7 +40,7 @@ https://anibal-alpizar.github.io/
   
 <br>
 <h2> Github Streak </h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anibal-alpizar&layout=compact&theme=vision-friendly-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anibal-alpizar&layout=compact&theme=nightowl" />
 
  
 </div>
