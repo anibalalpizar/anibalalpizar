@@ -1,21 +1,66 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
-### Hi, I'm Anibal Alpizar 👋
+<!-- ### Hi, I'm Anibal Alpizar 👋
 
 - 📘 Software engineering
 - 🔭 React 
 - 🌱 I’m currently learning React/JS, Tailwindcss
-- 📫 Contact email: anibal.alpizar14@gmail.com
+- 📫 Contact email: anibal.alpizar14@gmail.com -->
 
-<h2> Github Stats </h2> 
+<!-- <h2> Github Stats </h2> 
 <div align="center">
   <a href="https://github.com/anibal-alpizar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anibal-alpizar&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibal-alpizar&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
+</div> -->
+```php
+<?php
+
+namespace AnibalAlpizar;
+
+class About extends Me
+{
+    public function getFrontendTechnologies(): array
+    {
+        return [
+            React::class,
+            Astro::class,
+            Javascript::class,
+            Bootstrap::class,
+            TailwindCss::class,
+        ];
+    }
+    
+    public function getBackendTechnologies(): array
+    {
+        return [
+            Django::class,
+            Javascript::class,
+            NodeJS::class,
+            ExpressJS::class,
+            TypeScript::class,
+            AspNet::class,
+        ];
+    }
+    
+    public function getDatabases(): array
+    {
+        return [
+            MySQL::class,
+            Postgresql::class,
+            SQL::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
   
- </div>
-<div style="display: inline_block"><br>
+<!--  </div> -->
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +70,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+</div> -->
 
  ##
  
