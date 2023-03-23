@@ -89,7 +89,10 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/
   
 <br>
 <h2> Github Streak </h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anibal-alpizar&layout=compact&theme=nightowl" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anibal-alpizar&layout=compact&theme=radical" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=anibal-alpizar&show_icons=true&theme=radical" />
+  
 
  
 </div>
