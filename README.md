@@ -4,15 +4,9 @@
 
 - 📘 Software engineering
 - 🔭 React 
-- 🌱 I’m currently learning React/JS, Tailwindcss
+- 🌱 I’m currently learning React/TS, Tailwindcss
 - 📫 Contact email: anibal.alpizar14@gmail.com -->
 
-<!-- <h2> Github Stats </h2> 
-<div align="center">
-  <a href="https://github.com/anibal-alpizar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anibal-alpizar&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibal-alpizar&layout=compact&langs_count=7&theme=nightowl"/>
-</div> -->
 ```php
 <?php
 
@@ -74,11 +68,13 @@ class About extends Me
 
  ##
  
- <h2>See my last web project <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+<!--  <h2>See my last web project <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
 Tasks App (Django): https://django-auth-crud-hke8.onrender.com/ <br>
 E-commerce (HTML, CSS, JS): https://anibal-alpizar.github.io/ <br>
-Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/
+Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
+
+
  
  <h2> Social Networks </h2>
  
@@ -89,16 +85,28 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/
   
 <br>
 <h2> Github Streak </h2>
-<div style="display: flex; flex-direction: column;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anibal-alpizar&layout=compact&theme=radical" />
-  </div>
-  <div style="flex: 1;">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=anibal-alpizar&show_icons=true&theme=radical" /> -->
-  </div>
-</div>
+    <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anibal-Alpizar&count_private=true&include_all_commits=true&theme=tokyonight" alt="Anibal's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anibal-Alpizar&layout=compact&theme=tokyonight" alt="Anibal's top language stats" />
+</p>
+  <p align="center">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anibal-alpizar&layout=compact&theme=tokyonight" />
+    </p>
 
 
 
- 
-</div>
+<hr/>
+
+
+📊 **This Week I Spent My Time On:** ⏰🕜
+<!--START_SECTION:waka-->
+```text
+Typescript   13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
+Javascript   5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
+C#           4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+TSQL         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Go           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+```
+<!--END_SECTION:waka-->
+<!--ending-->
+
