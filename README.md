@@ -98,7 +98,7 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
 ```text
 React        13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
 Node         5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Go           4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Java         4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Rust         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Docker       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
