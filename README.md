@@ -98,7 +98,7 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
 ```text
 React(ts)    20 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
 Nextjs(ts)   5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Typescript   4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Angular      4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Java         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 C#           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
