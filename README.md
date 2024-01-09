@@ -23,7 +23,7 @@ class About extends Me
             Astro::class,
             Javascript::class,
             Bootstrap::class,
-            Tailwind CSS::class,
+            TailwindCSS::class,
         ];
     }
     
