@@ -18,10 +18,12 @@ class About extends Me
     {
         return [
             React::class,
+            Nextjs::class,
+            Angular::class,
             Astro::class,
             Javascript::class,
             Bootstrap::class,
-            TailwindCss::class,
+            Tailwind CSS::class,
         ];
     }
     
@@ -30,10 +32,13 @@ class About extends Me
         return [
             Django::class,
             Javascript::class,
-            NodeJS::class,
-            ExpressJS::class,
+            Nodejs::class,
+            Nestjs::class,
+            Go::class,
+            Expressjs::class,
             TypeScript::class,
             AspNet::class,
+            Docker::class,
         ];
     }
     
