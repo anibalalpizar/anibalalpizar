@@ -3,7 +3,7 @@
 <!-- ### Hi, I'm Anibal Alpizar 👋
 
 - 📘 Software engineering
-- 🔭 React 
+- 🔭 React
 - 🌱 I’m currently learning React/TS, Tailwindcss
 - 📫 Contact email: anibal.alpizar14@gmail.com -->
 
