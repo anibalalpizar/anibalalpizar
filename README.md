@@ -95,7 +95,6 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
     </p>
 
 
-
 ##
 
 
