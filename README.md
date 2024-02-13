@@ -101,7 +101,7 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
 <!--START_SECTION:waka-->
 ```text
 React        20 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
-Nodejs       5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
+Redis        5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
 MongoDB      5 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 TypeScript   3 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Docker       2 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
