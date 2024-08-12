@@ -87,11 +87,11 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
  
 <h1> Github Streak 🔥</h1>
     <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anibal-Alpizar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Anibal's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anibal-Alpizar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Anibal's top language stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=anibalalpizar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Anibal's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalalpizar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Anibal's top language stats" />
 </p>
   <p align="center">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anibal-Alpizar&theme=tokyonight&hide_border=false" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anibalalpizar&theme=tokyonight&hide_border=false" />
     </p>
 
 
