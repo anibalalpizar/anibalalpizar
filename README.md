@@ -90,9 +90,9 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=anibalalpizar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="Anibal's stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalalpizar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Anibal's top language stats" />
 </p>
-  <p align="center">
+<p align="center">
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anibalalpizar&theme=tokyonight&hide_border=false" />
-    </p>
+</p>
 
 
 ##
