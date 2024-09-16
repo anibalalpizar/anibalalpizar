@@ -108,4 +108,3 @@ SQL          1 hr 30 mins    ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <!--ending-->
-
