@@ -87,8 +87,8 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
  
 <h1> Github Streak 🔥</h1>
     <p align="center">
-    <img height="200" src="https://gh-readme-profile.vercel.app/api?username=anibalalpizar&hide=issues&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=f2f2f2&border_color=e4e4e4&stroke_color=ffffff&username_color=ffffff" alt="Anibal's stats" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalalpizar&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Anibal's top language stats" />
+    <img height="165" src="https://gh-readme-profile.vercel.app/api?username=anibalalpizar&hide=issues&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=f2f2f2&border_color=e4e4e4&stroke_color=ffffff&username_color=ffffff" alt="Anibal's stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalalpizar&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Anibal's top language stats" />
 </p>
 <p align="center">
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=anibalalpizar&theme=highcontrast&hide_border=false" />
