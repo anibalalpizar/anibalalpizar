@@ -102,9 +102,9 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
 ```text
 Angular      30 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
 Oracle       8 hrs 40 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Nextjs       4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Nextjs       8 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 Mongodb      3 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-SQL          0 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+SQL          1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 <!--END_SECTION:waka-->
 <!--ending-->
