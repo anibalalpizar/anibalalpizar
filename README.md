@@ -3,8 +3,8 @@
 <!-- ### Hi, I'm Aníbal Alpízar 👋
 
 - 📘 Software engineering
-- 🔭 React
-- 🌱 I’m currently learning React/TS, Tailwindcss
+- 🔭 Nextjs
+- 🌱 I’m currently learning rust 
 - 📫 Contact email: anibal.alpizar14@gmail.com -->
 
 ```php
