@@ -103,7 +103,7 @@ Landing page(Astro): https://anibal-alpizar.github.io/astro-landing/ -->
 Javascript   29 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
 C#           29 hrs 47 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
 Nextjs       15 hrs 29 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Oracle       3 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Oracle       5 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 SQL          2 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 <!--END_SECTION:waka-->
